@@ -1,16 +1,36 @@
-# React + Vite
+# 🌟 Rene Baterbonia: The Bituin ng Mindanao
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> *"MAMAAAAAA!"* — Rene, probably.
 
-Currently, two official plugins are available:
+Welcome to the official documentation for **Rene Baterbonia**, the bright star (*bituin*) shining all the way from Mindanao! 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features & Main Abilities
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Mindanao Star Power:** Shines brighter than your phone screen at 3 AM when you open TikTok.
+* **Mama Calling:** Can shout *"MAMAAAAAA!"* with maximum volume and perfect vocal pitch whenever something goes wrong (or right).
+* **Unstoppable Energy:** Runs on 100% good vibes, local humor, and pure star power.
+* **Problem Solver:** If a problem cannot be fixed, just scream *"MAMAAAAAA!"* and hope for the best.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ System Requirements
+
+| Requirement | Minimum | Recommended |
+| :--- | :--- | :--- |
+| **Patience** | 100% | 500% |
+| **Earplugs** | 1 Pair | Heavy Duty / Noise Canceling |
+| **Mindanao Pride** | 50% | 1000% |
+| **Snacks** | Chippy & Softdrinks | Full Feast |
+
+---
+
+## ⚙️ How to Run Rene
+
+1. **Start the engine:** Say hi nicely.
+2. **Activate Star Mode:** Tell him he is the true *Bituin ng Mindanao*.
+3. **Emergency Reset:** If Rene gets lost or confused, run the following command:
+
+```bash
+echo "MAMAAAAAA!"
