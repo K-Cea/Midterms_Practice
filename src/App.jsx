@@ -1,4 +1,8 @@
 import { useState } from 'react'
+import Navbar from './components/navbar'
+import Login from './components/login'
+import Dashboard from './components/dashboard'
+import Register from './components/register'
 import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
@@ -9,6 +13,10 @@ function App() {
 
   return (
     <>
+      <Navbar />
+      <Login />
+      <Register />
+
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
