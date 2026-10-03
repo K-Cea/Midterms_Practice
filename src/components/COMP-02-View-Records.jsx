@@ -28,3 +28,24 @@ export default function RecordTable({ records = [] }) {
     </table>
   );
 }
+// 1. Add this function inside your component:
+const handleDelete = (id) => {
+  const confirmed = window.confirm("Are you sure you want to delete this record?");
+  if (confirmed) {
+    // If you have setRecords state:
+    setRecords(records.filter((item) => item.id !== id));
+  }
+};
+
+// 2. In your table headers (<thead>), add an "Actions" header:
+<th>Actions</th>
+
+// 3. In your table rows (<tbody> / map loop), add the Delete button cell:
+<td>
+  <button 
+    onClick={() => handleDelete(item.id)} 
+    style={{ color: "red", cursor: "pointer" }}
+  >
+    Delete
+  </button>
+</td>
